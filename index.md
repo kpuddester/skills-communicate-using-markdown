@@ -15,3 +15,7 @@ var myVar = "Hello, world!";
 ``` python
 myList = ["Northern Flicker", "Blue Jay", "Crow"]
 ```
+
+- [ ] Photograph Blue Jay
+- [ ] Photograph Northern Flicker
+- [ ] Photograph Crow
