@@ -6,4 +6,12 @@
 
 ###### This is an `<h6>` header, which is the smallest
 
-![Northern Flicker](https://upload.wikimedia.org/wikipedia/commons/4/40/Northern_Flicker.jpg)
+![Northern Flicker](https://birdingbnb.com/wp-content/uploads/2020/10/Northern-flicker-Melanie-Wu.jpg)
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+``` python
+myList = ["Northern Flicker", "Blue Jay", "Crow"]
+```
