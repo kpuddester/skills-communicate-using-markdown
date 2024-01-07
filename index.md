@@ -5,3 +5,5 @@
 #### This is an `<h4>` header
 
 ###### This is an `<h6>` header, which is the smallest
+
+![Northern Flicker](https://upload.wikimedia.org/wikipedia/commons/4/40/Northern_Flicker.jpg)
